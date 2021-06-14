@@ -2,7 +2,7 @@
 
 ## by Kiernan beattie
 
-Made with HTML and CSS, readme written in markdown
+Made with HTML CSS and Bootstrap, readme written in markdown
 
 This is a portfolio website made to prove I can make a portfolio website
 
