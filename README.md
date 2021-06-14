@@ -1,11 +1,15 @@
-# by Kiernan beattie
+# Kiernan's Portfolio
 
-## Portfolio
+## by Kiernan beattie
 
-Its portfolio website made to prove I can make a portfolio website
+Made with HTML and CSS, readme written in markdown
+
+This is a portfolio website made to prove I can make a portfolio website
 
 Download the files and run the HTML with any browser
 
-or go to kiernan2.github.io/Portfolio
+or go to [kiernan2.github.io/Portfolio](http://kiernan2.github.io/Portfolio)
 
-Copyright stuff go here
+Licensed under the MIT License
+
+kiernan1994@gmail.com
