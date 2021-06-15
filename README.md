@@ -1,15 +1,34 @@
-# Kiernan's Portfolio
+# _Kiernan's Portfolio_
 
-## by Kiernan beattie
+#### _A Webpage_
 
-Made with HTML CSS and Bootstrap, readme written in markdown
+#### By _**Kiernan Beattie**_
 
-This is a portfolio website made to prove I can make a portfolio website
+## Technologies Used
 
-Download the files and run the HTML with any browser
+* HTML 
+* CSS 
+* Bootstrap
 
-or go to [kiernan2.github.io/Portfolio](http://kiernan2.github.io/Portfolio)
+## Description
 
-Licensed under the MIT License
+_This is a portfolio website made to prove I can make a portfolio website._
 
-kiernan1994@gmail.com
+## Setup/Installation Requirements
+
+* _clone this repo with `git clone https://github.com/kiernan2/Portfolio.git`_
+* _open index.html in any browser_
+* _or go to [kiernan2.github.io/Portfolio](http://kiernan2.github.io/Portfolio)_
+
+## Known Bugs
+
+* _N/A_
+
+## License
+
+_Licensed under the MIT License_
+_©Kiernan Beattie 2021_
+
+## Contact Information
+
+_kiernan1994@gmail.com_
