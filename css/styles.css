@@ -10,7 +10,11 @@
   background-color: blueviolet;
 }
 
+.left{
+  float: left;
+}
+
 img{
-  width: 50%;
-  height: 50%;
+  width: 10%;
+  height: 10%;
 }
